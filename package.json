@@ -1,0 +1,20 @@
+{
+  "name": "techtask",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+
+  "scripts": {
+    "start": "reqres-fastify-api --> node index.js"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+
+  "dependencies": {
+    "axios": "^1.7.4",
+    "fastify": "^4.28.1"
+  }
+}
