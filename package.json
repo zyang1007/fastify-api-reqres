@@ -2,10 +2,10 @@
   "name": "techtask",
   "version": "1.0.0",
   "type": "module",
-  "main": "index.js",
+  "main": "sample_invoice_api.js",
 
   "scripts": {
-    "start": "reqres-fastify-api --> node index.js"
+    "start": "reqres-fastify-api --> node sample_invoice_api.js"
   },
 
   "keywords": [],
